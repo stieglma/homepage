@@ -1,0 +1,141 @@
+@import url(http://fonts.googleapis.com/css?family=Share+Tech);
+@font-face {
+    font-family: 'Mono Social Icons Font';
+    src: url('fonts/MonoSocialIconsFont-1.10.eot');
+    src: url('fonts/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('fonts/MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('fonts/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('fonts/MonoSocialIconsFont-1.10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.symbol, a.symbol:before {
+    font-family: 'Mono Social Icons Font';
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    -ms-text-rendering: optimizeLegibility;
+    -o-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -ms-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+a.symbol:before {
+    content: attr(title);
+    margin-right: 0.3em;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    color: #EEEEEE;
+    font-family: 'Share Tech';
+    text-align: center;
+    background-image: url('../pics/stressed_linen.png');
+}
+
+h1 {
+    font-size: xx-large;
+    text-shadow: 2px 2px black;
+    margin-top: 5vh;
+    margin-bottom:0vh;
+}
+
+nav {
+    display: inline-block;
+    width: auto;
+    padding: 0vw 0.5vw;
+    font-size: large;
+    line-height: 1;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 1vw;
+}
+
+#content {
+    display: inline-block;
+    width: auto;
+    max-width: 70vw;
+    padding: 1vw 2vw;
+    font-size: medium;
+    border:2px solid;
+    line-height: 1.5;
+    text-align: left;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 5em;
+    color: #EEEEEE;
+}
+
+span {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    color: #38C5C5;
+}
+
+a:visited {
+    color: #38C5C5;
+}
+
+
+a span:hover {
+    color: #38C5C5;
+}
+
+a .active {
+    color: #38C5C5;
+}
+
+.cv {
+    border: none;
+    text-align: left;
+    font-size: small;
+}
+
+.cv th {
+    font-size: large;
+    border: none;
+    border-bottom: 2px solid #38C5C5;
+}
+
+.cv td {
+    border: none;
+}
+
+.cv td:first-child {
+    text-align: right;
+    width: 150px;
+    padding: 10px 0 10px 0;
+}
+
+.cv td:last-child {
+    padding: 10px 20px 10px 20px;
+    margin-right: 10px;
+}
+
+.cv tr {
+    border-bottom: 1px solid #38C5C5;
+}
+
+.cv tr:last-child {
+    border-bottom: none;
+}

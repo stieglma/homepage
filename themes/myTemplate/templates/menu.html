@@ -1,0 +1,12 @@
+<nav id="menu">
+    <ul>
+    {% if DISPLAY_PAGES_ON_MENU %}
+        {% for page in PAGES|sort(attribute='sortorder') %}
+            <li><a href="{{ page.url }}.html"><span>{{ page.title }}</span></a></li>
+        {% endfor %}
+    {% endif %}
+    {% for title, link in MENUITEMS %}
+        <li><a href="{{ link }}">{{ page.title }}</a></li>
+    {% endfor %}
+    </ul>
+</nav>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>stieglmaier.me</title>
+    <link rel="stylesheet" href="theme/css/style.css"/>
+    <script language="JavaScript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <!--[if !IE 7]>
+    <style type="text/css">
+        #wrap {display:table;height:100%}
+    </style>
+    <![endif]-->
+</head>
+<body>
+<h1>Thomas Stieglmaier</h1>
+
+{% include 'menu.html' %}
+<br>
+
+<div id="content">
+{% block content %}
+{% endblock content %}
+
+  <div class="push"></div>
+</div>
+
+{% include 'footer.html' %}
+
+</body>
+</html>
