@@ -14,8 +14,9 @@ Wordpress
 
 Science
 -------
-- `CPAchecker`_ I'm contributing since three years to the CPAchecker project from the `Software Systems Lab`_. The aim is automated software verification, this means you give a program (written in C) to our tool, and our tool says if your program is safe regarding a certain specification (e.g. assert statements, error labels, ...).
+- `CPAchecker`_ is a software used for automated software verification. It is mainly used for verifying C code against specifications like the reachability of error labels or if conditions of assert statements hold in every possible program execution. CPAchecker is a Project of the `Software Systems Lab`_ where I am working as a student assistant since 2011/07.
 - `Octagon-Based Software Verification with CPAchecker`_ is the topic of my Bachelor's Thesis. It introduces a formalism for a configurable program analysis (CPA) based on the octagon abstract domain. Several different configurations of this CPA and how it can be used to analyze programs in a time- and memory-efficient manner are discussed. The evaluation of these approaches is done on two implementations of octagon-based CPAs in CPA CHECKER , a CPA using the Octagon Abstract Domain Library and a CPA using the APRON library. Both CPAs are compared to other analyses implemented in CPA CHECKER and other tools. Overall, octagon-based CPAs are not as memory-efficient as an explicit-value analysis, but they perform strictly better on programs which rely on inter-variable relations.
+- `Integration and Evaluation of the Multext-East Corpus in NLTK`_ was the topic of our work in the Text-Mining Project, a course I attended in 2015 during my studies. I worked on this project with two colleagues, Alexander Böhm and Thomas Ziegler. We created a corpus reader for the `Multext-East`_ corpus which is now integrated in `NLTK`_. For more information about the evaluation and the code please refer to the linked github repository and the documentation which resides there, too.
 
 Misc
 ----
@@ -32,3 +33,6 @@ Misc
 .. _`CPAchecker`: //cpachecker.sosy-lab.org
 .. _`Octagon-Based Software Verification with CPAchecker`: //stieglmaier.me/uploads/thesis.pdf
 .. _`Software Systems Lab`: //sosy-lab.org
+.. _`Integration and Evaluation of the MULTEXT-East Corpus in NLTK`: //github.com/jwacalex/MULTEX-EAST-PoS-Tagger
+.. _`NLTK`: //www.nltk.org/
+.. _`Multext-East`: //nl.ijs.si/ME/V4/
