@@ -10,7 +10,7 @@ Projects
 
 Wordpress
 ---------
-- `Mail()man Subscription`_ a simple plugin which generates a widget allowing users to subscribe to mailing-lists over the php mail() function
+- `Mail()man Subscription`_ a simple plugin which generates a widget allowing users to subscribe to mailing-lists via the php mail() function
 
 Science
 -------
@@ -22,7 +22,7 @@ Science
 Misc
 ----
 - `Sillard`_ a game which was created by 5 friends of mine + me on a `Weekend of Code`_. It is a mixture of soccer and billiard.
-- `Schafkopfauswerter`_ a tool for the documentation and evaluation of Schafkopf-games
+- `Schafkopfauswerter`_ is a tool for the documentation and evaluation of Schafkopf-games. It provides statistics in the form of tables and plots, allows saving the current scores and also a pdf export is available.
 - `jSoccer`_ a Framework where self-programmed AI's can play soccer against each other. This project was developed during the "Software Engineering Project" at the University of Passau with 5 other students. It is no longer maintained, however if you have questions, feel free to contact me.
 
 
