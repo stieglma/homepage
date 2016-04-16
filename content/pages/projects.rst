@@ -8,10 +8,6 @@ Projects
 | This is simply a list of my current and finished projects. Feel free to use them.
 |
 
-Wordpress
----------
-- `Mail()man Subscription`_ a simple plugin which generates a widget allowing users to subscribe to mailing-lists via the php mail() function
-
 Science
 -------
 - `CPAchecker`_ is a software used for automated software verification. It is mainly used for verifying C code against specifications like the reachability of error labels or if conditions of assert statements hold in every possible program execution. CPAchecker is a Project of the `Software Systems Lab`_ where I am working as a student assistant since 2011/07.
@@ -19,6 +15,10 @@ Science
 - `Live-Variables within CPAchecker`_ was a project that I worked on during the lecture *Software Verification* with two colleagues, Sebastian Ott and Thomas Ziegler. In the project we created a CPA that computes the set of live-variables for each program location. This information is quite useful for later analyses, especially when it comes to shrinking the possible state space by removing variables that are irrelevant at certain location from the appropriate states, and therefore having a higher level of abstraction.
 - `Path Invariants in CPAchecker`_ is the outcome of a seminar on software verification. I implemented and evaluated invariant generation bound to found (infeasible) error paths in CPAchecker. With invariants we hoped to reduce the number of necessary loop unrollings while doing predicate abstraction together with CEGAR. The evaluation shows that the overall impact is not very high, but still about 1.5% (about 30 runs) more of the analyzed programs could be verified correctly.
 - `Integration and Evaluation of the Multext-East Corpus in NLTK`_ was the topic of our work in the *Text-Mining Project*, a course I attended in 2015 during my studies. I worked on this project with two colleagues, Alexander Böhm and Thomas Ziegler. We created a corpus reader for the `Multext-East`_ corpus which is now integrated in `NLTK`_. For more information about the evaluation and the code please refer to the linked github repository and the documentation which resides there, too.
+
+Wordpress
+---------
+- `Mail()man Subscription`_ a simple plugin which generates a widget allowing users to subscribe to mailing-lists via the php mail() function
 
 Games
 -----
