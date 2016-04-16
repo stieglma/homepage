@@ -27,7 +27,7 @@ Misc
 - `jSoccer`_ a Framework where self-programmed AI's can play soccer against each other. This project was developed during the "Software Engineering Project" at the University of Passau with 5 other students. It is no longer maintained, however if you have questions, feel free to contact me.
 
 
-.. _`Mail()man Subscription`: //bitbucket.org/ieee-passau-Web-Relaunch/mail-man-subscription/
+.. _`Mail()man Subscription`: https://github.com/IEEE-SB-Passau/Mailman-Subscription
 .. _`Sillard`: //play.google.com/store/apps/details?id=de.passau.ieee.woc.sillard.android&hl=de
 .. _`Weekend of Code`: //ieee.uni-passau.de/de/event/weekend-of-code-2/
 .. _`Schafkopfauswerter`: https://github.com/stieglma/Schafkopfauswerter
