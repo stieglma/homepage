@@ -20,10 +20,10 @@ Science
 - `Path Invariants in CPAchecker`_ is the outcome of a seminar on software verification. I implemented and evaluated invariant generation bound to found (infeasible) error paths in CPAchecker. With invariants we hoped to reduce the number of necessary loop unrollings while doing predicate abstraction together with CEGAR. The evaluation shows that the overall impact is not very high, but still about 1.5% (about 30 runs) more of the analyzed programs could be verified correctly.
 - `Integration and Evaluation of the Multext-East Corpus in NLTK`_ was the topic of our work in the *Text-Mining Project*, a course I attended in 2015 during my studies. I worked on this project with two colleagues, Alexander Böhm and Thomas Ziegler. We created a corpus reader for the `Multext-East`_ corpus which is now integrated in `NLTK`_. For more information about the evaluation and the code please refer to the linked github repository and the documentation which resides there, too.
 
-Misc
-----
+Games
+-----
 - `Sillard`_ a game which was created by 5 friends of mine + me on a `Weekend of Code`_. It is a mixture of soccer and billiard.
-- `Schafkopfauswerter`_ is a tool for the documentation and evaluation of Schafkopf-games. It provides statistics in the form of tables and plots, allows saving the current scores and also a pdf export is available.
+- `Schafkopfauswerter`_ is a tool for the documentation and evaluation of Schafkopf-games. It provides statistics in the form of tables and plots, allows saving the current scores and also a pdf export is available. This tool was completely rewritten with `AspectJ`_ as a project during the lecture *Software Product-Line Engineering*. AspectJ is a seamless aspect-oriented extension to Java which, for example, allows to modularize crosscutting concerns.
 - `jSoccer`_ a Framework where self-programmed AI's can play soccer against each other. This project was developed during the "Software Engineering Project" at the University of Passau with 5 other students. It is no longer maintained, however if you have questions, feel free to contact me.
 
 
@@ -40,3 +40,4 @@ Misc
 .. _`NLTK`: //www.nltk.org/
 .. _`Multext-East`: //nl.ijs.si/ME/V4/
 .. _`Path Invariants in CPAchecker`: //stieglmaier.me/uploads/invariants.pdf
+.. _`AspectJ`: https://eclipse.org/aspectj/
