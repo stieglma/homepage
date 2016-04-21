@@ -47,9 +47,9 @@ CV
    | Skills                                                                                       |
    +========================+=====================================================================+
    | Programming Languages  | Java (excellent), HTML/CSS/JavaScript (good), C (good),             |
-   |                        | Haskell (good), SQL (basic), Python (basic)                         |
+   |                        | Haskell (good), Python (good), SQL (basic)                          |
    +------------------------+---------------------------------------------------------------------+
-   | Languages              | German (mother tongue), English (good), French (basic, Delf B1)     |
+   | Languages              | German (mother tongue), English (fluent), French (basic)            |
    +------------------------+---------------------------------------------------------------------+
 
 |
@@ -91,36 +91,37 @@ CV
 .. table::
    :class: cv
 
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | (International) Organisations                                                                                    |
-   +====================+=============================================================================================+
-   | since 2015/07      | Main organizer of the Region 8 Student and Young Professionals Congress 2016 in Regensburg  |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | since 2015/03      | Student Activities Chairman of the `german section`_                                        |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2014/08            | Participant at the `R8SYP in Krakow`_                                                       |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | since 2014/06      | Vice-Chairman of the `IEEE Student Branch Passau`_                                          |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2012/07 - 2014/06  | Chairman of the `IEEE Student Branch Passau`_                                               |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2013/06 - 2014/06  | Main organizer of the fifth IEEE Germany Student Conference in Passau                       |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2013/06            | Participant at the `Fourth IEEE Germany Student Conference`_ in Hamburg                     |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2013/05            | Participant at the second `Central European Student Branch Congress`_ in Opole (Poland)     |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2012/01 - 2012/11  | Main organizer of the `Third IEEE Student Conference`_ in Passau                            |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | since 2011/04      | Member of the `IEEE Student Branch Passau`_                                                 |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | 2009/01 - 2014/12  | Armorer and committee member at the shooting club                                           |
-   +--------------------+---------------------------------------------------------------------------------------------+
-   | since 2005         | Member at the shooting club `Edelweiß Dingolfing`_                                          |
-   +--------------------+---------------------------------------------------------------------------------------------+
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | (International) Organisations                                                                                       |
+   +====================+================================================================================================+
+   | since 2015/07      | Main organizer of the `Region 8 Student and Young Professionals Congress 2016`_ in Regensburg  |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | since 2015/03      | Student Activities Chairman of the `IEEE Germany Section`_                                     |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2014/08            | Participant at the `R8SYP in Krakow`_                                                          |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | since 2014/06      | Vice-Chairman of the `IEEE Student Branch Passau`_                                             |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2012/07 - 2014/06  | Chairman of the `IEEE Student Branch Passau`_                                                  |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2013/06 - 2014/06  | Main organizer of the fifth IEEE Germany Student Conference in Passau                          |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2013/06            | Participant at the `Fourth IEEE Germany Student Conference`_ in Hamburg                        |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2013/05            | Participant at the second `Central European Student Branch Congress`_ in Opole (Poland)        |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2012/01 - 2012/11  | Main organizer of the `Third IEEE Student Conference`_ in Passau                               |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | since 2011/04      | Member of the `IEEE Student Branch Passau`_                                                    |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | 2009/01 - 2014/12  | Armorer and committee member at the shooting club                                              |
+   +--------------------+------------------------------------------------------------------------------------------------+
+   | since 2005         | Member at the shooting club `Edelweiß Dingolfing`_                                             |
+   +--------------------+------------------------------------------------------------------------------------------------+
 
+.. _`Region 8 Student and Young Professionals Congress 2016`: https://syp-regensburg.de
 .. _`R8SYP in Krakow`: https://www.facebook.com/sypcongress2014
-.. _`german section`: http://www.ieee.de/
+.. _`IEEE Germany Section`: http://www.ieee.de/
 .. _`IEEE Student Branch Passau`: https://ieee.uni-passau.de
 .. _`Third IEEE Student Conference`: //ieee.students.uni-passau.de/conference
 .. _`Fourth IEEE Germany Student Conference`: //www.ieee-student-branch.de/veranstaltungen/index.php?content=details&id=9&sid=zKTEavUDMqTj1u92YF7PN3DaYZE7PJTE
