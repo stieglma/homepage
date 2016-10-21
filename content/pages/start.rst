@@ -12,25 +12,20 @@ Start
 
    <table>
      <tbody>
-       <tr>
-         <td style="text-align:right;">Student (M. Sc. Computer Science)</td>
-         <td>&nbsp;<span>@</span>&nbsp;</td>
-         <td style="text-align:left;"> <a href="http://www.uni-passau.de/">University of Passau</a></td>
-       </tr>
+        <tr>
+          <td style="text-align:right;">Software Entwickler, IT & Prozessberater</td>
+          <td>&nbsp;<span>@</span>&nbsp;</td>
+          <td style="text-align:left;"><a href="//onelogic.de/">One Logic GmbH</a></td>
+        </tr>
        <tr>
          <td style="text-align:right;">Student Representative</td>
          <td>&nbsp;<span>@</span>&nbsp;</td>
-         <td style="text-align:left;"> <a href="http://ieee.de/">IEEE Germany Section</a></td>
+         <td style="text-align:left;"> <a href="//ieee.de/">IEEE Germany Section</a></td>
        </tr>
       <tr>
          <td style="text-align:right;">Student Activities Chairman</td>
          <td>&nbsp;<span>@</span>&nbsp;</td>
-         <td style="text-align:left;"> <a href="http://ieee.de/">IEEE Germany Section</a></td>
-       </tr>
-       <tr>
-         <td style="text-align:right;">Student Assistant</td>
-         <td>&nbsp;<span>@</span>&nbsp;</td>
-         <td style="text-align:left;"><a href="http://sosy-lab.org/">Software Systems Lab, Passau</a></td>
+         <td style="text-align:left;"> <a href="//ieee.de/">IEEE Germany Section</a></td>
        </tr>
      </tbody>
   </table>

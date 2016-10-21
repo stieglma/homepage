@@ -17,25 +17,31 @@ CV
 .. table::
    :class: cv
 
-   +-------------------+---------------------------------------------------------------------------------------+
-   | Education                                                                                                 |
-   +===================+=======================================================================================+
-   | 2015/10 - 2016/10 | Scholarship holder of the `Deutschlandstipendium`_                                    |
-   +-------------------+---------------------------------------------------------------------------------------+
-   | since 2014/10     | Studying `M.Sc. Computer Science`_ at the `University of Passau`_                     |
-   +-------------------+---------------------------------------------------------------------------------------+
-   | 2011/04 - 2014/10 | `B.Sc. Internet Computing`_ at the `University of Passau`_ (Grade 1.6)                |
-   +-------------------+---------------------------------------------------------------------------------------+
-   | 2014/07           | Bachelor's Thesis: `Octagon-Based Software Verification with CPAchecker`_ (Grade 1.0) |
-   +-------------------+---------------------------------------------------------------------------------------+
-   | 2001/10 - 2010/06 | `Gymnasium Dingolfing`_ (Grade 2.2)                                                   |
-   +-------------------+---------------------------------------------------------------------------------------+
+   +-------------------+------------------------------------------------------------------------------------------+
+   | Education                                                                                                    |
+   +===================+==========================================================================================+
+   | 2016/10 - 2017/04 | Scholarship holder of the `msg Leistungsstipendium`_                                     |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2015/10 - 2016/10 | Scholarship holder of the `Deutschlandstipendium`_                                       |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2014/10 - 2016/10 | `M.Sc. Computer Science`_ at the `University of Passau`_                                 |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2014/07           | Masters's Thesis: `Augmenting Predicate Analysis with Auxiliary Invariants`_ (Grade 1.0) |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2011/04 - 2014/10 | `B.Sc. Internet Computing`_ at the `University of Passau`_ (Grade 1.6)                   |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2014/07           | Bachelor's Thesis: `Octagon-Based Software Verification with CPAchecker`_ (Grade 1.0)    |
+   +-------------------+------------------------------------------------------------------------------------------+
+   | 2001/10 - 2010/06 | `Gymnasium Dingolfing`_ (Grade 2.2)                                                      |
+   +-------------------+------------------------------------------------------------------------------------------+
 
 .. _`M.Sc. Computer Science`: //www.uni-passau.de/en/msc-computer-science/
 .. _`B.Sc. Internet Computing`: //www.uni-passau.de/bachelor-internet-computing/
 .. _`Octagon-Based Software Verification with CPAchecker`: //www.stieglmaier.me/uploads/thesis.pdf
 .. _Gymnasium Dingolfing: //www.gymnasium.dingolfing.de
 .. _Deutschlandstipendium: //www.deutschlandstipendium.de
+.. _`msg Leistungsstipendium`: //karriere.msggroup.com/perspektiven/studierende/leistungsstipendien
+.. _`Augmenting Predicate Analysis with Auxiliary Invariants`: //sosy-lab.org/research/msc/stieglmaier
 
 |
 
@@ -60,6 +66,8 @@ CV
    +-------------------+------------------------------------------------------------------------------------------------------------+
    | Professional Experience                                                                                                        |
    +===================+============================================================================================================+
+   | since     2016/10 | Software-Developer at `One Logic GmbH`                                                                     |
+   +-------------------+------------------------------------------------------------------------------------------------------------+
    | 2015/11 - 2015/12 | Tutor for the Haskell tutorial                                                                             |
    +-------------------+------------------------------------------------------------------------------------------------------------+
    | 2015/07           | Co-Teacher for the project "Entwicklung sensor-unterstützter Android Apps" at the `Sommercamp Informatik`_ |
@@ -78,13 +86,14 @@ CV
    +-------------------+------------------------------------------------------------------------------------------------------------+
    | 2012/07           | Co-Teacher for the Hadoop-Project at the `Sommercamp Informatik`_                                          |
    +-------------------+------------------------------------------------------------------------------------------------------------+
-   | since 2011/07     | Student Assistant at the `Software Systems Lab`_                                                           |
+   | 2011/07 - 2016/07 | Student Assistant at the `Software Systems Lab`_                                                           |
    +-------------------+------------------------------------------------------------------------------------------------------------+
 
 .. _`Sixth IEEE Germany Student Conference`: //ieee-student-conference.de
 .. _`Sommercamp Informatik`: //sommercamp.fim.uni-passau.de/
 .. _`Software Systems Lab`: //sosy-lab.org
 .. _`University of Passau`: //www.uni-passau.de
+.. _`One Logic GmbH`: //onelogic.de
 
 |
 
