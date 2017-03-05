@@ -24,9 +24,9 @@ CV
    +-------------------+------------------------------------------------------------------------------------------+
    | 2015/10 - 2016/10 | Scholarship holder of the `Deutschlandstipendium`_                                       |
    +-------------------+------------------------------------------------------------------------------------------+
-   | 2014/10 - 2016/10 | `M.Sc. Computer Science`_ at the `University of Passau`_                                 |
+   | 2014/10 - 2016/10 | `M.Sc. Computer Science`_ at the `University of Passau`_ (Grade 1.2)                     |
    +-------------------+------------------------------------------------------------------------------------------+
-   | 2014/07           | Masters's Thesis: `Augmenting Predicate Analysis with Auxiliary Invariants`_ (Grade 1.0) |
+   | 2016/10           | Masters's Thesis: `Augmenting Predicate Analysis with Auxiliary Invariants`_ (Grade 1.3) |
    +-------------------+------------------------------------------------------------------------------------------+
    | 2011/04 - 2014/10 | `B.Sc. Internet Computing`_ at the `University of Passau`_ (Grade 1.6)                   |
    +-------------------+------------------------------------------------------------------------------------------+
